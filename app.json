@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "WeatherViewer",
+    "slug": "weather-viewer-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.group6.weatherviewer"
+    },
+    "ios": {
+      "bundleIdentifier": "com.group6.weatherviewer"
+    }
+  }
+}
